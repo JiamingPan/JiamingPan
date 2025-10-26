@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiamingPan
-- 👀 I’m interested in cosmology, globular clusters, galaxy formation, and minor planets.
+- 👀 I’m interested in cosmology.
 - 🌱 I’m currently a fourth year Physics PhD stduent at University of Michigan studying theoretical cosmology.
 
 <!---
