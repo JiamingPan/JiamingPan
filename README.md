@@ -1,6 +1,7 @@
-## Jiaming Pan
+Jiaming Pan
 
-PhD candidate at University of Michigan, focused on LLM compression and scientific ML.
+PhD candidate at University of Michigan, working on LLM compression, 
+scientific ML, and dark energy / modified gravity (theory + data analysis).
 
 **Current focus**
 - Weight sensitivity analysis and post-training quantization diagnostics @ Escha Labs
@@ -11,4 +12,4 @@ PhD candidate at University of Michigan, focused on LLM compression and scientif
 Python · PyTorch · JAX · HuggingFace Transformers · Slurm · NumPy/SciPy
 
 Always happy to talk about LLM compression, quantized weight statistics, 
-or scientific generative models.
+or the nature of dark energy.
