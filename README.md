@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @JiamingPan
-- 👀 I’m interested in cosmology.
-- 🌱 I’m currently a fourth year Physics PhD stduent at University of Michigan studying theoretical cosmology.
+## Jiaming Pan
 
-<!---
-JiamingPan/JiamingPan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Physics PhD candidate at the University of Michigan, working on LLM compression, 
+scientific machine learning, and cosmological data analysis.
+
+**Current focus**
+- LLM quantization and weight sensitivity analysis at Escha Labs
+- Post-training compression diagnostics for Qwen3-scale models
+- Diffusion models for cosmological simulation data
+- Scalable research workflows on GPU/HPC systems
+
+**Tech**
+Python · PyTorch · JAX · HuggingFace Transformers · Slurm/HPC · NumPy/SciPy
+
+**Research**
+21 papers · 5,000+ citations · h-index 16
+
+Always happy to talk about LLM compression, scientific generative models, 
+or the surprisingly weird statistics of quantized weight distributions.
