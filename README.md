@@ -3,8 +3,8 @@
 PhD candidate at University of Michigan, focused on LLM compression and scientific ML.
 
 **Current focus**
-- Weight sensitivity analysis and post-training quantization diagnostics @ Escha Labs
-- Diffusion models for cosmological simulation data (targeting NeurIPS)
+- Weight sensitivity analysis and post-training quantization diagnostics 
+- Diffusion models for cosmological simulation data
 - Scalable GPU/HPC experiment pipelines
 
 **Tech**
